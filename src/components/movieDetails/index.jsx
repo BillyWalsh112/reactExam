@@ -54,6 +54,10 @@ const MovieDetails = ({ movie }) => {  // Don't miss this!
           icon={<MonetizationIcon />}
           label={`${movie.revenue.toLocaleString()}`}
         />
+                <Chip
+          icon={<piggy-bankIcon />}
+          label={`${movie.budget.toLocaleString()}`}
+        />
         <Chip
           icon={<StarRate />}
           label={`${movie.vote_average} (${movie.vote_count})`}
