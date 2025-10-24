@@ -67,8 +67,7 @@ Add your name and student number to the README.md file, as shown below:
 ~~~markdown
 # React In-class Exam, October 2025
 
-Your Name, Student Number
-...
+Billy Walsh, 20107248...
 ~~~
 
 Push your changes to GitHub:
